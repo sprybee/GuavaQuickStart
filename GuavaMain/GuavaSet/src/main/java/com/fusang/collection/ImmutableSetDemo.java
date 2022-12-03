@@ -1,4 +1,4 @@
-package com.fusang;
+package com.fusang.collection;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
